@@ -1,9 +1,12 @@
 [
   { "name": "Java", "icon": "/assets/img/stack/java.svg" },
   { "name": "JavaScript", "icon": "/assets/img/stack/javascript.svg" },
+  { "name": "TypeScript", "icon": "/assets/img/stack/typescript.svg" },
   { "name": "MySQL", "icon": "/assets/img/stack/mysql.svg" },
   { "name": "Angular", "icon": "/assets/img/stack/Angular_full_color_logo.svg" },
+  { "name": "React", "icon": "/assets/img/stack/react.svg" },
   { "name": "Node.js", "icon": "/assets/img/stack/node-js.svg" },
+  { "name": "Next.js", "icon": "/assets/img/stack/nextjs.svg" },
   { "name": "GitHub", "icon": "/assets/img/stack/github-tech.svg" },
   { "name": "IntelliJ", "icon": "/assets/img/stack/intellij.svg" },
   { "name": "VS Code", "icon": "/assets/img/stack/visual-studio-code.svg" },
