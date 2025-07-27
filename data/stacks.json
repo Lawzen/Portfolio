@@ -1,0 +1,14 @@
+[
+  { "name": "Java", "icon": "/assets/img/stack/java.svg" },
+  { "name": "JavaScript", "icon": "/assets/img/stack/javascript.svg" },
+  { "name": "MySQL", "icon": "/assets/img/stack/mysql.svg" },
+  { "name": "Angular", "icon": "/assets/img/stack/Angular_full_color_logo.svg" },
+  { "name": "Node.js", "icon": "/assets/img/stack/node-js.svg" },
+  { "name": "GitHub", "icon": "/assets/img/stack/github-tech.svg" },
+  { "name": "IntelliJ", "icon": "/assets/img/stack/intellij.svg" },
+  { "name": "VS Code", "icon": "/assets/img/stack/visual-studio-code.svg" },
+  { "name": "Docker", "icon": "/assets/img/stack/docker-icon.svg" },
+  { "name": "Swift", "icon": "/assets/img/stack/swift-programming-language-icon.svg" },
+  { "name": "Spring Boot", "icon": "/assets/img/stack/Spring_Boot.svg" },
+  { "name": "Python", "icon": "/assets/img/stack/Python-logo-notext.svg" }
+]

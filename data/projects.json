@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Jeu de Labyrinthe",
+    "description": "Premier projet : Jeu 1D de labyrinthe avec génération aléatoire<br>Mode de jeu : Score & Monstre.",
+    "technologies": "Language C, MariaDB",
+    "image": "/assets/img/projects/laby.jpg",
+    "link": "https://github.com/LA228178/Laby310"
+  },
+  {
+    "title": "Jeu RPG de Combat",
+    "description": "Jeu RPG de Combat avec Sélection d'armes et de personnages utilisant une API Minecraft.",
+    "technologies": "Java (JavaFX), SQLite",
+    "image": "/assets/img/projects/rpg.jpg",
+    "link": "https://github.com/Lawzen/RPG-Combat-v1/"
+  },
+  {
+    "title": "Les Jeudis de Fleurus",
+    "description": "Projet Client : Refonte du site Les Jeudis de Fleurus qui devient Les Jeudis de la Biologie Médicale.",
+    "technologies": "Angular 17 (TailwindsCSS, Preline), MariaDB",
+    "image": "/assets/img/projects/lesjeudisdefleurus.jpeg",
+    "link": "https://github.com/POO3-2024/Group06"
+  },
+  {
+    "title": "Chilling & Bing",
+    "description": "Découvrez Le site web inspiré du style AnimeList, conçu pour offrir une expérience immersive et fluide. Gérez facilement vos œuvres préférées en les ajoutant aux catégories Favoris, À voir, En cours et Terminé. Commentez et échangez avec la communauté.",
+    "technologies": "Angular 17 (Preline, TailwindsCSS), .NET",
+    "image": "/assets/img/projects/MyAnimeList.jpg",
+    "link": "https://github.com/POO3-2024/Group06"
+  },
+  {
+    "title": "FruitScan-IA",
+    "description": "Cette IA est un classificateur d'images de fruits utilisant TensorFlow et Keras. Il comprend un modèle de classification d'images capable de reconnaître différentes catégories de fruits à partir d'images.",
+    "technologies": "Python (TensorFlow, Keras)",
+    "image": "/assets/img/projects/fruitscania.jpg",
+    "link": "https://github.com/Lawzen/FruitScan-IA"
+  },
+  {
+    "title": "AnticairApp-Mobile",
+    "description": "Anticair est une application d'annonces développée en utilisant Flutter pour le front-end et Spring Boot pour le back-end. Celle-ci permet aux utilisateurs de créer, modifier, supprimer et consulter des annonces.",
+    "technologies": "Dart (Flutter), Java (Spring Boot)",
+    "image": "/assets/img/projects/anticair.png",
+    "link": "https://github.com/Lawzen/AnticairApp-Mobile"
+  },
+  {
+    "title": "SmartLight-APP",
+    "description": "Application Web & PWA permettant de contrôler ton ampoule connectée LSC Smart Connect avec TUYA API.\n\n",
+    "technologies": "Next.js, React (TailwindCSS, DaisyUI)",
+    "image": "/assets/img/projects/smartlight.gif",
+    "link": "https://github.com/Lawzen/SmartLight-APP"
+  }
+]
